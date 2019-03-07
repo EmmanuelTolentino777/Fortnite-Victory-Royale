@@ -1,0 +1,24 @@
+img {
+    width: 250px;
+}
+
+button {
+    margin-top: 15px;
+}
+h1{
+    font-family: 'Coiny', cursive;
+    color:blue;
+}
+p{
+    color:pink;
+    font-family: 'Noto Serif', serif;
+    }
+h2{
+    color:purple;
+    font-family: 'Hind', sans-serif;
+    }
+h3{
+    color:red;
+    font-family: 'Oxygen', sans-serif;
+
+    }
